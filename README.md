@@ -8,7 +8,7 @@ Hi, I'm Abraham O, a passionate and dedicated software developer with a strong b
 * Javascript / Typescript
 * React JS / TS
 * NodeJs
-* AWS developer (certified)
+* AWS developer 
 * Python
 * C++
 
