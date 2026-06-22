@@ -1,19 +1,37 @@
-## Hi there 👋
+# Hi, I'm Abraham Orherhe
 
-Hi, I'm Abraham O, a passionate and dedicated software developer with a strong background in Javascript, Typescript, and NodeJs, and some intermediate knowledge of Python and C. With over 2 years of experience in the industry, I have a proven track record of delivering high-quality software solutions that meet client needs and drive business success. My expertise spans various domains, including web development, cloud computing, data structures etc. I thrive in collaborative environments and enjoy tackling challenging problems to create innovative and efficient solutions. Let's connect and build something amazing together! #written by CharGPT
+I'm a builder, founder, and software developer focused on creating practical technology that solves real problems. My work spans product engineering, backend systems, documentation, automation, and fintech infrastructure.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeorherhe)](https://github.com/anuraghazra/github-readme-stats) 
+I’m currently building **tPay365**, a financial technology platform focused on improving how people access, manage, and move money through modern payroll and payment systems.
 
-## Skills
-* Javascript / Typescript
-* React JS / TS
-* NodeJs
-* AWS developer 
-* Python
-* C++
+## What I Work On
 
-## Contact me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aeorherhe)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aeorherhe/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aeorherhe) 
+- Fintech products and payment infrastructure
+- Backend systems, APIs, and automation
+- Developer tooling and documentation
+- Product strategy, compliance-aware systems, and scalable architecture
+- Web applications and digital platforms
 
+## Current Focus
+
+- Building and scaling **tPay365**
+- Designing reliable financial workflows
+- Creating documentation systems for engineering, compliance, and operations
+- Exploring AI-assisted product development and automation
+
+## Connect With Me
+
+- LinkedIn: [linkedin.com/in/aeorherhe](https://www.linkedin.com/in/aeorherhe/)
+- GitHub: [github.com/aeorherhe](https://github.com/aeorherhe)
+- Portfolio: [aeorherhe.github.io](https://aeorherhe.github.io)
+- X: [x.com/aeorherhe](https://x.com/aeorherhe)
+- Instagram: [instagram.com/aeorherhe](https://www.instagram.com/aeorherhe/)
+- Facebook: [facebook.com/aeorherhe](https://www.facebook.com/aeorherhe)
+
+## tPay365
+
+- Company LinkedIn: [linkedin.com/company/tpay365](https://www.linkedin.com/company/tpay365/)
+
+---
+
+I use GitHub to document my journey, develop products, experiment with ideas, and build systems that can grow from early-stage concepts into real-world platforms.
